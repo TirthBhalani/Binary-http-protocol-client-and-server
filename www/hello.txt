@@ -1,0 +1,2 @@
+Hello from bserve.
+This file is served over BHTTP/1.0, a custom binary HTTP protocol.
